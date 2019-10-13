@@ -8,3 +8,10 @@ p {
   font-style: italic;
   font-size: 8px'
 }
+
+h1 {
+  color: #FF44FF;
+  border: 5px solid blue;
+  margin: 20px;
+  float: right;
+}
