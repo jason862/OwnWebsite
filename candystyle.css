@@ -16,3 +16,13 @@ h1 {
   margin: 20px;
   padding: 5px;
 }
+
+.nerds {
+  float:left;
+  width: 49%;
+}
+
+.swedish {
+  float:right;
+  width:50%;
+}
