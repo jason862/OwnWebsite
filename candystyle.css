@@ -19,15 +19,15 @@ h1 {
 
 .nerds {
   float:left;
-  width: 49%;
+  width: 33%;
 }
 
 .swedish {
   float:right;
-  width:50%;
+  width:33%;
 }
 
 .skittles {
   float:left;
-  width:100%;
+  width:33%;
 }
